@@ -19,6 +19,7 @@ function App() {
           } else {
             stopBtnHandler();
             return (prevValue = 0);
+            console.log(intervalOneId);
           }
         }),
       1000
