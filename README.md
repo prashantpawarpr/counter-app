@@ -1,5 +1,6 @@
 # Getting Started with Create React App
 this is just a project for learning working of counter app with a component of button
+second change for checking the pull request
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
